@@ -8,7 +8,7 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mí**
 
-<picture> <img align="right" src="https://raw.githubusercontent.com/LuisHernanTorresMachado/LuisHernanTorresMachado/main/banner-tech.png" width="250px"></picture>
+<picture> <img align="right" src="https://github.com/skyneett/skyneett/blob/main/banner-techh.png" width="250px"></picture>
 
 <br>
 
