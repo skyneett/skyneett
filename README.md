@@ -8,7 +8,10 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mí**
 
-<picture> <img align="right" src="https://github.com/skyneett/skyneett/blob/main/bane3.jpg" width="250px"></picture>
+<!-- GIF de Halo animado (optimizado) -->
+<picture>
+  <img align="right" src="https://github.com/skyneett/skyneett/blob/main/halogif.gif?raw=true" width="280px" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 255, 0, 0.3);">
+</picture>
 
 <br>
 
