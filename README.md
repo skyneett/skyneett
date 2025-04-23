@@ -6,7 +6,7 @@
 
 <br>
 
-## <picture><img src = "https://github.com/skyneett/skyneett/blob/main/download.gif" width = 50px></picture> **Sobre mí**
+## <picture><img src = "https://github.com/skyneett/skyneett/blob/main/1.gif" width = 50px></picture> **Sobre mí**
 
 <!-- GIF de Halo animado (optimizado) -->
 <picture>
