@@ -2,7 +2,7 @@
   <!-- Banner con overlay transparente -->
   <div style="position: relative; text-align: center; color: white; margin-bottom: 20px;">
     <!-- Imagen de fondo (reemplaza la URL) -->
-    <img src="https://raw.githubusercontent.com/LuisHernanTorresMachado/LuisHernanTorresMachado/main/banner.png" alt="Banner" style="width: 100%; border-radius: 10px; opacity: 0.9;"/>
+    <img src="https://github.com/skyneett/skyneett/blob/main/banner.png" alt="Banner" style="width: 100%; border-radius: 10px; opacity: 0.9;"/>
     <!-- Overlay con texto -->
     <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); background-color: rgba(0, 0, 0, 0.7); padding: 20px; border-radius: 10px; width: 80%;">
       <h1>Luis Hernan Torres Machado</h1>
