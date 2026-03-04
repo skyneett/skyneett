@@ -93,8 +93,8 @@
 </li>
 <br>
 <li>
-<a href="mailto:lhtorres@soy.sena.edu.co" target="_blank">
-<img src="https://img.shields.io/badge/Email-lhtorres@soy.sena.edu.co-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<a href="mailto:hernan15924@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Email-hernan15924@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 </li>
 </ul>
