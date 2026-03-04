@@ -18,7 +18,7 @@
 - 🧑‍💻 **Backend Developer** especializado en Python, Java y APIs REST.
 - 📚 **Aprendiendo**: Patrones de diseño avanzados y arquitectura de software.
 - 🎮 **Fun Fact**: "Programo mientras escucho la banda sonora de Halo".
-- 📫 **Contacto**: [lhtorres@soy.sena.edu.co](mailto:lhtorres@soy.sena.edu.co).
+- 📫 **Contacto**: [lhtorres@soy.sena.edu.co](mailto:hernan15924@gmail.com).
 
 <br><br>
 
