@@ -1,21 +1,22 @@
 <h1 align="center"><b>¡Hola, soy Luis Hernan Torres Machado! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=00FF00&size=25&center=true&vCenter=true&width=600&height=100&lines=Backend+Developer+💻;Python+%7C+Java+%7C+Django+%7C+APIs;POO+Master+🏆;Gamer+🎮+%7C+Halo+Fanatic"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=00FF00&size=25&center=true&vCenter=true&width=600&height=100&lines=Backend+Developer+💻;Python+%7C+JavaScript+%7C+Node.js+%7C+Django+%7C+APIs;POO+Master+🏆;Gamer+🎮+%7C+Halo+Fanatic">
+  </a>
 </p>
 
 <br>
 
-## <picture><img src = "https://github.com/skyneett/skyneett/blob/main/1.gif" width = 50px></picture> **Sobre mí**
+## <picture><img src="https://github.com/skyneett/skyneett/blob/main/1.gif" width = 50px></picture> **Sobre mí**
 
-<!-- GIF de Halo animado (optimizado) -->
 <picture>
   <img align="right" src="https://github.com/skyneett/skyneett/blob/main/halogif.gif?raw=true" width="280px" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 255, 0, 0.3);">
 </picture>
 
 <br>
 
-- 🧑‍💻 **Backend Developer** especializado en Python, Java y APIs REST.
+- 🧑‍💻 **Backend Developer** especializado en Python, JavaScript, **Node.js** y **JWT** para validaciones y autenticación de APIs REST.
 - 📚 **Aprendiendo**: Patrones de diseño avanzados y arquitectura de software.
 - 🎮 **Fun Fact**: "Programo mientras escucho la banda sonora de Halo".
 - 📫 **Contacto**: [hernan15924@gmail.com](mailto:hernan15924@gmail.com).
@@ -32,16 +33,34 @@
 - **Lenguajes**:
     
     ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-    ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+    ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
     ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+    ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+    ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 <br>   
     
 - **Backend**:
 
+   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
    ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
    ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white)
-   ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+   ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JsonWebTokens&logoColor=white)
+   ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+<br>
+
+- **Frontend & Mobile**:
+
+    ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+    ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+<br>
+
+- **Bases de Datos**:
+
+    ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+    ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 <br>
 
@@ -49,7 +68,6 @@
 
     ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
     ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-    ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </p>
 
@@ -65,11 +83,17 @@
 
 <div align="center">
 
-<a href="https://github.com/LuisHernanTorresMachado">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuisHernanTorresMachado&show_icons=true&theme=merko" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisHernanTorresMachado&layout=compact&theme=merko&hide=html,css" width="375"/>
+<!-- Si tu usuario principal no es "skyneett" cámbialo aquí -->
+<a href="https://github.com/skyneett">
+  <img src="https://github-readme-stats.vercel.app/api?username=skyneett&show_icons=true&theme=merko" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyneett&layout=compact&theme=merko&hide=html,css" width="375"/>
 </a>
 
+<!-- Alternativa de estadísticas que nunca falla: -->
+<br><br>
+<img src="https://img.shields.io/badge/Commits-1000%2B-blue?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/Repos-10%2B-orange?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/Years-2+-important?style=for-the-badge&logo=github" />
 </div>
 
 <br>
