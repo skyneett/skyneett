@@ -85,16 +85,16 @@
 
 <div align="center">
 
-<!-- Vistas del perfil corregidas -->
+<!-- Vistas del perfil -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=skyneett&color=007ec6&style=flat-square&label=Profile+Views" />
 </p>
 
 <br>
 
-<!-- Estadísticas principales y lenguajes más usados con el tema merko -->
+<!-- Estadísticas principales generales y lenguajes más usados con el tema merko -->
 <a href="https://github.com/skyneett">
-  <img src="https://github-readme-stats.vercel.app/api?username=skyneett&show_icons=true&theme=merko" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=skyneett&show_icons=true&include_all_commits=true&count_private=true&theme=merko" width="450"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyneett&layout=compact&theme=merko&hide=html,css" width="375"/>
 </a>
 
