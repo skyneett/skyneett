@@ -54,6 +54,8 @@
 
 - **Frontend & Mobile**:
 
+    ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+    ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
     ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
     ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
@@ -69,7 +71,12 @@
 - **Herramientas**:
 
     ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+    ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+    ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+    ![XAMPP](https://img.shields.io/badge/XAMPP-F37623?style=for-the-badge&logo=xampp&logoColor=white)
     ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+    ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+    ![Antigravity](https://img.shields.io/badge/Antigravity-8A2BE2?style=for-the-badge&logo=python&logoColor=white)
 
 </p>
 
@@ -94,7 +101,7 @@
 
 <!-- Estadísticas principales generales y lenguajes más usados con el tema merko -->
 <a href="https://github.com/skyneett">
-  <img src="https://github-readme-stats.vercel.app/api?username=skyneett&show_icons=true&include_all_commits=true&count_private=true&theme=merko" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=skyneett&show_icons=true&include_all_commits=true&custom_title=My%20GitHub%20Statistics&theme=merko" width="450"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyneett&layout=compact&theme=merko&hide=html,css" width="375"/>
 </a>
 
