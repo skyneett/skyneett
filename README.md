@@ -32,13 +32,15 @@
 
 - **Lenguajes**:
     
+    ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+    ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
     ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
     ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
     ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
     ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
     ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-<br>   
+<br>    
     
 - **Backend**:
 
@@ -83,17 +85,26 @@
 
 <div align="center">
 
-<!-- Si tu usuario principal no es "skyneett" cámbialo aquí -->
+<!-- Vistas del perfil corregidas -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=skyneett&color=007ec6&style=flat-square&label=Profile+Views" />
+</p>
+
+<br>
+
+<!-- Estadísticas principales y lenguajes más usados con el tema merko -->
 <a href="https://github.com/skyneett">
   <img src="https://github-readme-stats.vercel.app/api?username=skyneett&show_icons=true&theme=merko" width="450"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyneett&layout=compact&theme=merko&hide=html,css" width="375"/>
 </a>
 
-<!-- Alternativa de estadísticas que nunca falla: -->
 <br><br>
-<img src="https://img.shields.io/badge/Commits-1000%2B-blue?style=for-the-badge&logo=github" />
-<img src="https://img.shields.io/badge/Repos-10%2B-orange?style=for-the-badge&logo=github" />
-<img src="https://img.shields.io/badge/Years-2+-important?style=for-the-badge&logo=github" />
+
+<!-- Badges adicionales -->
+<img src="https://img.shields.io/badge/Total_Commits-316-blue?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/Total_Stars-97-orange?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/Rank-A%2B-success?style=for-the-badge&logo=github" />
+
 </div>
 
 <br>
